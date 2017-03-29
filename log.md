@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+Day 0:  March 28, 2017
+**Today's Progress**:  Get started on Free Code Camp.
+
+**Thoughts:** Like the tests for reinforcing concepts.
+
+**Link to work:** 
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
